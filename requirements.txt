@@ -5,3 +5,17 @@ seaborn==0.13.2
 scikit-learn==1.5.0
 nltk==3.8.1
 tqdm==4.66.4
+# Testing
+pytest==8.2.0
+pytest-cov==4.1.0
+# ML/DL
+torch==2.3.0
+transformers==4.40.0
+sentence-transformers==2.7.0
+# App
+gradio==4.24.0
+streamlit==1.36.0
+# Explainability
+shap==0.45.1
+# Vector DB
+faiss-cpu==1.8.0
